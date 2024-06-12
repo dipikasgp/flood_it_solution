@@ -35,6 +35,7 @@
 
 
 ## Detailed Description
+Solution of this flood it problem - https://arxiv.org/abs/1001.4420
 This is a game to be played from the terminal. User can enter the number of tiles n and number of colors m.
 A n*n matrix will be formed with 0 to m-1 integers (where each integer represents a color) randomly assigned to each cell. 
 ### Automated Mode 
