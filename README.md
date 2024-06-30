@@ -1,4 +1,4 @@
-# alcemy_challenge
+# flood_it_solution
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@
 1. Navigate to the project directory:
 
     ```bash
-    cd alcemy_challenge
+    cd flood_it_solution
     ```
 
 3. Install dependencies using `pip`:
